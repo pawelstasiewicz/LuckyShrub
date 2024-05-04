@@ -15,7 +15,7 @@ This is the website I created as the final project for the "HTML and CSS in dept
 
 ### Screenshot
 
-<img width="1669" alt="Zrzut ekranu 2024-05-4 o 20 25 22" src="https://github.com/pawelstasiewicz/LuckyShrub/assets/100447618/d526fe03-d85f-4bed-b185-2ecc7e1c967e">
+<img width="1669" alt="Zrzut ekranu 2024-05-4 o 20 25 22" src="https://github.com/pawelstasiewicz/LuckyShrub/assets/100447618/c84a7b6b-32ab-4889-90d0-4ab12376a6fb">
 
 ### Links
 
